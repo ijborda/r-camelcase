@@ -4,7 +4,7 @@ Use [this tool](https://imarijoyborda.com/r-header-cleaner/) to to convert raw c
 
 My motivation: I use R for data analysis and I usually deal with large raw data with almost hundreds of columns. The column names are usually messy: have unnecessary symbols, no standardized case used, and have annoying white spaces. With this tool, I can easily clean the column names on the go.  
 
-Link to project:[https://imarijoyborda.com/r-header-cleaner/](https://imarijoyborda.com/r-cheader-cleaner). 
+Link to project:[https://imarijoyborda.com/r-header-cleaner/](https://imarijoyborda.com/r-header-cleaner). 
 
 ![Screenshot of Site - 1](assets/readme/readme-1.png)
 
