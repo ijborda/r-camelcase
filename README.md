@@ -1,10 +1,10 @@
 # camelCase for R 
 
-Use [this tool](https://imarijoyborda.com/r-camelcase/) to to convert raw column names into R ready vector formatted in camelCase. 
+Use [this tool](https://imarijoyborda.com/r-header-cleaner/) to to convert raw column names into R ready vector formatted in camelCase. 
 
 My motivation: I use R for data analysis and I usually deal with large raw data with almost hundreds of columns. The column names are usually messy: have unnecessary symbols, no standardized case used, and have annoying white spaces. With this tool, I can easily clean the column names on the go.  
 
-Link to project:[https://imarijoyborda.com/r-camelcase/](https://imarijoyborda.com/r-camelcase/). 
+Link to project:[https://imarijoyborda.com/r-header-cleaner/](https://imarijoyborda.com/r-cheader-cleaner). 
 
 ![Screenshot of Site - 1](assets/readme/readme-1.png)
 
