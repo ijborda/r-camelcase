@@ -34,3 +34,5 @@ There are still lots that need to be improved in this web application. Some plan
 * Support other cases
 
 Contributions are also very welcome! Just issue a pull request.
+
+## Thanks for checking it out!
