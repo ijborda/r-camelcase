@@ -1,4 +1,4 @@
-# camelCase for R 
+# R Header Cleaner | Clean R headers on the Go
 
 Use [this tool](https://imarijoyborda.com/r-header-cleaner/) to to convert raw column names into R ready vector formatted in camelCase. 
 
@@ -36,3 +36,8 @@ There are still lots that need to be improved in this web application. Some plan
 Contributions are also very welcome! Just issue a pull request.
 
 ## Thanks for checking it out!
+
+Check out my other projects:
+* [COVID-19 Statistics | A COVID-19 Monitoring App](https://github.com/ijborda/covid19-statistics)
+* [Survie | Survey More Efficiently](https://github.com/ijborda/astrie)
+* [Readability | Readability Test for Researchers](https://github.com/ijborda/readability)
