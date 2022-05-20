@@ -25,7 +25,7 @@ The tool works as follows:
 * Finally, the output is formatted to be R-ready by formatting it to "c("colname1", "colname2", "colname3", ...)".
 
 ## How It's Made
-Tech used: HTML, CSS, and JavaScript.
+Tech used: HTML, CSS, and JavaScript. <a href="https://www.flaticon.com/free-icons/clean" title="clean icons">Clean icons created by Smashicons - Flaticon</a>
 
 ## Future Improvements
 There are still lots that need to be improved in this web application. Some plans are:
